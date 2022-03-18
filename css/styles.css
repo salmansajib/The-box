@@ -100,11 +100,6 @@ header {
   gap: 0.5em;
 }
 
-.secondary-image {
-  width: 100%;
-  max-width: 250px;
-}
-
 footer {
   margin-top: 2em;
 }
